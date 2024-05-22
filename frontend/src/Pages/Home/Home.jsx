@@ -14,11 +14,7 @@ const Home = () => {
       <HeroSection/>
       <About/>
       <Qualities/>
-<<<<<<< HEAD
       {/* <Menu/> */}
-=======
-      <Menu/>
->>>>>>> origin/main
       <WhoAreWe/>
       <Team/>
       <Reservation/>
